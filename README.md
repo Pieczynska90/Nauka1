@@ -1,2 +1,2 @@
-# Nauka1
-Nauka Gita i programowania
+## Nauka1
+Nauka Gita i programowania.
